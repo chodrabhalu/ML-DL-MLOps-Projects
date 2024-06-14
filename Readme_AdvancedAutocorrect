@@ -1,0 +1,4 @@
+It is  a project about auto-correcting a whole paragraph.
+It uses 'nltk' library and performs autocorrections on jaccardus distance in the vector diagram of English vocabulary.
+The Output is in form of a paragraph so you can easily replace your old input with the new output.
+
